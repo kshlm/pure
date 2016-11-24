@@ -1,1 +1,1 @@
-pure.zsh
+fpath+="`dirname $0`/functions"
